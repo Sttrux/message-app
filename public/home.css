@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+     background-color: #DCD6F7;
+}
+.container-messages{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
